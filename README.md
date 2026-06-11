@@ -1,56 +1,111 @@
-# Urban Water Utility MIS Portfolio
+Urban Water Utility MIS Portfolio
+Overview
 
-## About
+This repository presents my professional portfolio supporting the implementation, monitoring, testing, training, and reporting of the Integrated Water Utility Management Information System (WuMIS) under the Ministry of Water and Energy (MoWE), Ethiopia.
 
-This repository showcases my professional experience supporting the design, implementation, testing, training, monitoring, and digital transformation of Integrated Management Information Systems (MIS) for Urban Water Utilities in Ethiopia.
+The project was implemented in 22 secondary cities under the Urban Water Supply and Sanitation Program.
 
-The portfolio highlights projects undertaken under the Ministry of Water and Energy (MoWE), including support to the Integrated MIS implementation across 22 secondary cities and contributions to the Second Urban Water Supply and Sanitation Project (SUWSSP-II).
+Project Overview
 
-## Areas of Expertise
+Key Information
+Item	Description
+Project	Water Utility Management Information System (WuMIS)
+Client	Ministry of Water and Energy
+Coverage	22 Secondary Cities
+Budget	132 Million ETB
+Platform	Cloud-Based Utility Management System
+Role	MIS Consultant
+System Architecture
 
-* Water Utility Management Information Systems
-* Digital Transformation
-* Project Monitoring and Evaluation
-* GIS and Spatial Analysis
-* Data Analytics and Reporting
-* Dashboard Development
-* Water Supply and Sanitation Projects
-* Asset Management Systems
-* Customer Information Systems (CIS)
-* SCADA and NRW Monitoring
+The system integrates:
 
-## Major Portfolio Projects
+WuMIS Mobile Application
+Customer Portal
+Core Utility Operations
+Central Aggregator
+Telecom Cloud Infrastructure
+Functional Modules
 
-### 1. Integrated MIS Implementation (22 Secondary Cities)
+The platform supports:
 
-Support for implementation, testing, user training, monitoring and reporting of integrated utility management systems.
+Customer Information System (CIS)
+Customer registration
+Billing history
+Complaint management
+Billing & Revenue Management
+Automated billing
+Payment reconciliation
+Revenue tracking
+Finance & Accounting
+Financial reporting
+Budget monitoring
+Ledger management
+HR Management
+Employee records
+Payroll processing
+Attendance tracking
+GIS & Asset Management
+Infrastructure mapping
+Asset inventory
+Network planning
+Data Analytics
+KPI dashboards
+Performance reports
+Decision support
+Implementation Achievements
 
-### 2. SUWSSP-II Project Support
+Results
+21 of 22 cities operational
+700,000+ customer records migrated
+100% hardware distributed
+Utility staff trained nationwide
+Legacy data migrated successfully
+Dashboard Monitoring
 
-Project monitoring, data analysis, reporting, and coordination support for water supply and sanitation infrastructure projects.
+The MIS provides monitoring dashboards covering:
 
-### 3. GIS and Spatial Analysis Projects
+Billing
+Finance
+HR
+Customer Information
+Asset Management
+Cloud Infrastructure
+Operational Benefits
 
-Geospatial analysis, mapping, and decision-support applications for water resources and utility management.
+Benefits Achieved
+Improved operational efficiency
+Automated billing processes
+Better revenue assurance
+Enhanced customer services
+Integrated data management
+Improved reporting capability
+My Role
 
-### 4. Dashboard and Reporting Solutions
+As MIS Consultant, I supported:
 
-Development of monitoring dashboards, KPI tracking systems, and project performance reporting tools.
+System implementation monitoring
+User Acceptance Testing (UAT)
+Data validation and reporting
+GIS integration support
+Utility performance monitoring
+Training coordination
+Stakeholder engagement
+Project progress reporting
+Technologies
+Python
+SQL
+ArcGIS
+QGIS
+Power BI
+Excel
+GIS & Remote Sensing
+Data Analytics
+Organization
 
-## Technologies
+Ministry of Water and Energy (MoWE), Ethiopia
 
-* Python
-* SQL
-* ArcGIS Pro
-* QGIS
-* Power BI
-* Excel
-* Remote Sensing
-* GitHub
+Author
 
-## Professional Background
+Jifara Dabessa
 
-MIS Consultant | Water Engineer | GIS & Remote Sensing Specialist
-
-Ministry of Water and Energy, Ethiopia
-
+Water Resources Engineer | GIS Specialist | Data Analyst | MIS Consultant
