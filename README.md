@@ -10,7 +10,7 @@ The project was implemented in 22 secondary cities under the Urban Water Supply 
 
 ## Project Overview
 
-![Project Overview](images/project-overview.png)
+![Project Overview](images/Project overview.png)
 
 ### Key Information
 
