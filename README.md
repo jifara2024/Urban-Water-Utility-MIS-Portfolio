@@ -1,20 +1,20 @@
-## Urban Water Utility MIS Portfolio
-# Overview
+# Urban Water Utility MIS Portfolio
+## Overview
 
 This repository presents my professional portfolio supporting the implementation, monitoring, testing, training, and reporting of the Integrated Water Utility Management Information System (WuMIS) under the Ministry of Water and Energy (MoWE), Ethiopia.
 
 The project was implemented in 22 secondary cities under the Urban Water Supply and Sanitation Program.
 
-Project Overview
+## Project Overview
 
-Key Information
-Item	Description
-Project	Water Utility Management Information System (WuMIS)
-Client	Ministry of Water and Energy
-Coverage	22 Secondary Cities
-Budget	132 Million ETB
-Platform	Cloud-Based Utility Management System
-Role	MIS Consultant
+### Key Information
+#### Item	        Description
+Project         	Water Utility Management Information System (WuMIS)
+Client          	Ministry of Water and Energy
+Coverage	        22 Secondary Cities
+Budget	          132 Million ETB
+Platform        	Cloud-Based Utility Management System
+Role	            MIS Consultant
 System Architecture
 
 The system integrates:
