@@ -1,54 +1,56 @@
 # Urban Water Utility MIS Portfolio
 
-## Overview
+## About
 
-This portfolio showcases my experience in the design, implementation, testing, training, and support of Integrated Management Information Systems (MIS) for urban water utilities in Ethiopia.
+This repository showcases my professional experience supporting the design, implementation, testing, training, monitoring, and digital transformation of Integrated Management Information Systems (MIS) for Urban Water Utilities in Ethiopia.
 
-## Functional Areas
+The portfolio highlights projects undertaken under the Ministry of Water and Energy (MoWE), including support to the Integrated MIS implementation across 22 secondary cities and contributions to the Second Urban Water Supply and Sanitation Project (SUWSSP-II).
 
-- Customer Information System (CIS)
-- Billing and Revenue Management
-- Finance and Accounting
-- Human Resource Management
-- Asset Management
-- GIS Integration
-- Water Production Monitoring
-- Non-Revenue Water Management
-- Water Quality Management
-- Reporting and Analytics
+## Areas of Expertise
+
+* Water Utility Management Information Systems
+* Digital Transformation
+* Project Monitoring and Evaluation
+* GIS and Spatial Analysis
+* Data Analytics and Reporting
+* Dashboard Development
+* Water Supply and Sanitation Projects
+* Asset Management Systems
+* Customer Information Systems (CIS)
+* SCADA and NRW Monitoring
+
+## Major Portfolio Projects
+
+### 1. Integrated MIS Implementation (22 Secondary Cities)
+
+Support for implementation, testing, user training, monitoring and reporting of integrated utility management systems.
+
+### 2. SUWSSP-II Project Support
+
+Project monitoring, data analysis, reporting, and coordination support for water supply and sanitation infrastructure projects.
+
+### 3. GIS and Spatial Analysis Projects
+
+Geospatial analysis, mapping, and decision-support applications for water resources and utility management.
+
+### 4. Dashboard and Reporting Solutions
+
+Development of monitoring dashboards, KPI tracking systems, and project performance reporting tools.
 
 ## Technologies
 
-- Python
-- SQL
-- ArcGIS
-- QGIS
-- Excel
-- Power BI
-- GIS & Remote Sensing
+* Python
+* SQL
+* ArcGIS Pro
+* QGIS
+* Power BI
+* Excel
+* Remote Sensing
+* GitHub
 
-## My Role
+## Professional Background
 
-- MIS Consultant
-- User Requirements Analysis
-- System Testing and QA
-- Data Analytics
-- GIS Integration
-- User Training
-- Change Management
-
-## Repository Structure
-
-- `/images`
-- `/dashboards`
-- `/diagrams`
-- `/documents`
-
-## Organization
+MIS Consultant | Water Engineer | GIS & Remote Sensing Specialist
 
 Ministry of Water and Energy, Ethiopia
 
-## Author
-
-Jifara Dabessa
-Water Resources Engineer | GIS Specialist | Data Analyst
